@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/image_bot_profile"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/bot_image"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:id="@+id/text_bot_title"
+        android:text="Suggestion"
+        android:textStyle="bold"
+        android:layout_toLeftOf="@+id/image_bot_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="4dp" />
+
+    <TextView
+        android:id="@+id/text_bot_body"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:text="hi man, how are you?"
+        android:background="@drawable/rounded_chat_bubble_response"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="220dp"
+        android:padding="8dp"
+        android:textSize="13dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/text_bot_title"
+        android:layout_toLeftOf="@+id/image_bot_profile"
+        android:layout_marginLeft="8dp" />
+
+    <TextView
+        android:id="@+id/text_bot_time"
+        android:text="00-00-0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_toLeftOf="@+id/text_bot_body"
+        android:layout_marginLeft="4dp"
+        android:layout_alignBottom="@+id/text_bot_body" />
+
+
+</RelativeLayout>

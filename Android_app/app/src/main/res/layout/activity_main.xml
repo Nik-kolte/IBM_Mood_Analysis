@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/gradient1"
+    tools:context="elysium.moodanalyser.MainActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:id="@+id/image_moodem"
+        android:layout_centerInParent="true"
+        android:background="@drawable/moodem"
+        android:layout_height="160dp"
+        />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#FFF"
+        android:layout_below="@+id/image_moodem"
+        android:textAlignment="center"
+        android:text="MOOD ANALYSER"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        android:layout_below="@+id/title"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:text=" &quot;Be Happy and a reason will come along&quot;
+- Robert Brault"
+        />
+
+</RelativeLayout>

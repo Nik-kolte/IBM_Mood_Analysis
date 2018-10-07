@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    android:id="@+id/r1"
+    android:background="@drawable/gradient2"
+    tools:context=".AnalysisActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear1"
+                android:orientation="vertical"
+                android:background="@drawable/rounded_shape_trans">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:text="Sentiment Distribution for Yesterday"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:layout_below="@+id/text_prom"
+                    android:textSize="16dp"
+                    android:padding="10dp"
+                    android:gravity="center"
+                    android:layout_height="wrap_content" />
+
+            <com.github.mikephil.charting.charts.RadarChart
+                android:id="@+id/radar_chart"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:text="Prominent Sentiment"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:id="@+id/text_prom"
+                android:layout_below="@+id/linear1"
+                android:textSize="15dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Sentiment"
+                android:id="@+id/sentiment"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_below="@+id/text_prom"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:layout_height="wrap_content" />
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:paddingBottom="10dp">
+
+                <EditText
+                    android:id="@+id/start_date"
+                    android:background="@drawable/rounded_shape_trans"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="0dp"
+                    android:layout_weight="0.5"
+                    android:inputType="none"
+                    android:textColor="#FFF"
+                    android:padding="10dp"
+                    android:gravity="center"
+                    android:textSize="16dp"
+                    android:editable="false"
+                    android:textColorHint="#80FFFFFF"
+                    android:textIsSelectable="true"
+                    android:clickable="true"
+                    android:layout_height="wrap_content"
+                    android:hint="Start Date"
+                    android:layout_marginRight="10dp"
+                    />
+
+                <EditText
+                    android:id="@+id/end_date"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="0dp"
+                    android:padding="10dp"
+                    android:textSize="16dp"
+                    android:gravity="center"
+                    android:background="@drawable/rounded_shape_trans"
+                    android:layout_weight="0.5"
+                    android:inputType="none"
+                    android:editable="false"
+                    android:textColor="#FFF"
+                    android:textColorHint="#80FFFFFF"
+                    android:textIsSelectable="true"
+                    android:clickable="true"
+                    android:layout_height="wrap_content"
+                    android:hint="End Date"
+                    />
+            </LinearLayout>
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:id="@+id/sentiment_select"
+                android:background="@drawable/rounded_shape_trans"
+                android:popupBackground="@drawable/rounded_shape_trans_darkest">
+            </Spinner>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear"
+                android:padding="10dp"
+                android:background="@drawable/rounded_shape_trans">
+
+                <com.github.mikephil.charting.charts.BarChart
+                    android:id="@+id/bar_chart"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</RelativeLayout>

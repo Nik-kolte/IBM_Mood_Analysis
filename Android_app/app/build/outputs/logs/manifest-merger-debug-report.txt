@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\fed5bf35cec8df4dee09419554ff2fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9812fcc4daa068b4f19d84b4137e2835\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3672e84bf90152f2099ef1cd1ba8c878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dc7679b62c282d1a512593270a91282e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31e28c7a1ef88ad9f4e7e73e2bd92718\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a450d468374a26f024afeda7f8c5a9cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\301de1d0f9ea98fa7bf97e1f1f3843fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\216b873b4acd244e313675bb307f5cb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5899cf74a8f1856181a041c2d7bebee9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1314a8a9b97f713d1907c30e02136a4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e42a22fa5e1fc8fe8704ed22e58d3440\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\35217ee67e7c675d6840e1afcd930c67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9903acdbcbb325b53fdce0983bbdb8a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0f3c62821877df8d0d53c020f30e3e36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d81f9ca06ec0a323cc2f9c5d771dc3c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\746171d3434784eddd94ccb6ae1de519\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\43a2d0daead2905063e39a01c5240e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbd7cd7a34cdb6365bc1a6582814ef04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\17223f7bcbd94d30bfaba791140df670\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8775a3c23710d0379a5fc4140be556ed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db912254fd662c7218fe8a21c5ab666c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\64db64e5f5a18841d352fc1e928cf038\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c328fb332ddc99fbab168648cde8a8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\355d906553830a0fbdb58b490658abaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\595bfe1e91b81186809f76424bc137f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\426b6e18a4c0365d9580a97d08b0d57f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ccacefb10bef4b8a61a70eb2e43c0b52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06d2a8dc9e856644a8081c8c3ef511cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5baf02f767f9fcaa64f6e6558bba1864\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:8:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31e28c7a1ef88ad9f4e7e73e2bd92718\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31e28c7a1ef88ad9f4e7e73e2bd92718\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\17223f7bcbd94d30bfaba791140df670\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\17223f7bcbd94d30bfaba791140df670\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:13:9-53
+	android:icon
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:9:9-68
+activity#elysium.moodanalyser.MainActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:19:13-77
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:23:27-74
+activity#elysium.moodanalyser.HomeActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:26:19-47
+activity#elysium.moodanalyser.LoginActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:27:9-29:45
+	android:label
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:29:13-42
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:28:13-42
+activity#elysium.moodanalyser.RegisterActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:31:13-45
+activity#elysium.moodanalyser.TwitterActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:33:19-50
+activity#elysium.moodanalyser.FacebookActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:34:9-54
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:34:19-51
+activity#elysium.moodanalyser.YoutubeActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:35:19-50
+receiver#elysium.moodanalyser.MyScheduler
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:37:9-40:39
+	android:enabled
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:38:13-40
+activity#elysium.moodanalyser.AnalysisActivity
+ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:42:9-63
+	android:name
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml:42:19-51
+uses-sdk
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\fed5bf35cec8df4dee09419554ff2fb4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\fed5bf35cec8df4dee09419554ff2fb4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9812fcc4daa068b4f19d84b4137e2835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9812fcc4daa068b4f19d84b4137e2835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3672e84bf90152f2099ef1cd1ba8c878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3672e84bf90152f2099ef1cd1ba8c878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dc7679b62c282d1a512593270a91282e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dc7679b62c282d1a512593270a91282e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31e28c7a1ef88ad9f4e7e73e2bd92718\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31e28c7a1ef88ad9f4e7e73e2bd92718\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a450d468374a26f024afeda7f8c5a9cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a450d468374a26f024afeda7f8c5a9cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\301de1d0f9ea98fa7bf97e1f1f3843fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\301de1d0f9ea98fa7bf97e1f1f3843fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\216b873b4acd244e313675bb307f5cb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\216b873b4acd244e313675bb307f5cb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5899cf74a8f1856181a041c2d7bebee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5899cf74a8f1856181a041c2d7bebee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1314a8a9b97f713d1907c30e02136a4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1314a8a9b97f713d1907c30e02136a4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e42a22fa5e1fc8fe8704ed22e58d3440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e42a22fa5e1fc8fe8704ed22e58d3440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\35217ee67e7c675d6840e1afcd930c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\35217ee67e7c675d6840e1afcd930c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9903acdbcbb325b53fdce0983bbdb8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9903acdbcbb325b53fdce0983bbdb8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0f3c62821877df8d0d53c020f30e3e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0f3c62821877df8d0d53c020f30e3e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d81f9ca06ec0a323cc2f9c5d771dc3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d81f9ca06ec0a323cc2f9c5d771dc3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\746171d3434784eddd94ccb6ae1de519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\746171d3434784eddd94ccb6ae1de519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\43a2d0daead2905063e39a01c5240e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\43a2d0daead2905063e39a01c5240e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbd7cd7a34cdb6365bc1a6582814ef04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbd7cd7a34cdb6365bc1a6582814ef04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b3c67d0e4a377230ec54b02bc2a49337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\17223f7bcbd94d30bfaba791140df670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\17223f7bcbd94d30bfaba791140df670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8775a3c23710d0379a5fc4140be556ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8775a3c23710d0379a5fc4140be556ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db912254fd662c7218fe8a21c5ab666c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db912254fd662c7218fe8a21c5ab666c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\64db64e5f5a18841d352fc1e928cf038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\64db64e5f5a18841d352fc1e928cf038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c328fb332ddc99fbab168648cde8a8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c328fb332ddc99fbab168648cde8a8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\355d906553830a0fbdb58b490658abaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\355d906553830a0fbdb58b490658abaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\595bfe1e91b81186809f76424bc137f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\595bfe1e91b81186809f76424bc137f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\426b6e18a4c0365d9580a97d08b0d57f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\426b6e18a4c0365d9580a97d08b0d57f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ccacefb10bef4b8a61a70eb2e43c0b52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ccacefb10bef4b8a61a70eb2e43c0b52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06d2a8dc9e856644a8081c8c3ef511cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06d2a8dc9e856644a8081c8c3ef511cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5baf02f767f9fcaa64f6e6558bba1864\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikko\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5baf02f767f9fcaa64f6e6558bba1864\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikko\AndroidStudioProjects\MoodAnalyserAndroid\app\src\main\AndroidManifest.xml

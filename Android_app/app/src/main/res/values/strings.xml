@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoodAnalyser</string>
+    <string name="get_channel_id"><![CDATA[1. Go to profile by clicking on the globe  2. Obtain the Channel ID by clicking on profile pic->settings->advanced settings->channel id]]></string>
+    <string name="extract_yb_api">1. Click on logo to go to API link 2. Follow intructions to obtain API key</string>
+    <string-array name="sentiment">
+        <item>Choose Sentiment</item>
+        <item>Joy</item>
+        <item>Analytical</item>
+        <item>Anger</item>
+        <item>Sadness</item>
+        <item>Tentative</item>
+        <item>Confident</item>
+        <item>Fear</item>
+    </string-array>
+
+</resources>

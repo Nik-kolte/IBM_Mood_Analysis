@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient1"
+    tools:context="elysium.moodanalyser.LoginActivity"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/lock_screen" />
+
+        <EditText
+            android:id="@+id/login_username"
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/ic_person_white_24dp"
+            android:hint="Enter Username"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            android:layout_margin="20dp"
+            android:background="@drawable/rounded_shape_trans"/>
+
+        <EditText
+            android:id="@+id/login_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:fontFamily="sans-serif"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/password"
+            android:hint="Enter Password"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            android:layout_margin="20dp"
+            android:background="@drawable/rounded_shape_trans"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="Login"
+            android:onClick="login_here"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:padding="15dp"
+            android:textColor="#FFFFFFFF"
+            android:background="@drawable/rounded_shape_trans_darker"/>
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Register here"
+            android:onClick="Register_here"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
