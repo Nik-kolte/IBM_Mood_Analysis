@@ -22,6 +22,12 @@ Team Members and their Roles:
 
 > Can be helpful in detecting unstable mindset and take precautions beforehand.
 
+Unique value proposition:
+> Real-Time analysis of user's emotional behaviour
+> Daily insights on user's emotional analysis to help user understand his emotional behaviour and improve on it.
+> Detailed statistical of user's social media activities.
+> If worst case emotion pattern identified,then active helping measures are implemented. 
+
 #APK link: 
 https://drive.google.com/open?id=1DzZdXn_mjaLVwZPAtXGT6yl2aRBGF9fo
 
