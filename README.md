@@ -35,4 +35,7 @@ https://drive.google.com/open?id=1DzZdXn_mjaLVwZPAtXGT6yl2aRBGF9fo
 Username: nikminerx2
 Password: moodyapp
 
+***Importanat- Please go through application's working video first*
+Video link- https://tinyurl.com/MoodAnalyser
+
 > Thanks!
